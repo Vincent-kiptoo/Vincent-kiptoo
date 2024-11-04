@@ -1,9 +1,11 @@
+--A view of CovidDeaths Table
 SELECT * 
 FROM dbo.CovidDeaths
 WHERE continent is not NULL
 
---SELECT * 
---FROM dbo.CovidVaccinations
+-- A view of CovidVaccinations Table
+SELECT * 
+FROM dbo.CovidVaccinations
 
 -- Selecting the appropriate data for use
 SELECT
@@ -57,7 +59,7 @@ WHERE continent is NOT NULL
 GROUP BY continent
 ORDER BY total_death_count DESC;
 
---BREAKING HINGS DOWNBY CONTNENTS
+--BREAKING THINGS DOWN BY BY GROUPING BY CONTINENTS
 
 -- Showin the continents with the highest death counts per population
 SELECT
@@ -97,7 +99,7 @@ WHERE dea.continent IS NOT NULL
 ORDER BY dea.location, dea.date;
 
 
---USING COMMON TABLE EXPRESSION
+--USING COMMON TABLE EXPRESSION (CTE)
 WITH popvsvac (cotnent, location, Date, Population, New_vaccinations, cumulative_vaccinations)
 AS
 (
@@ -130,7 +132,7 @@ CREATE TABLE #percentpopulationvaccinated
     date DATETIME,
     population NUMERIC,
     New_Vaccinations NUMERIC,
-    cumulative_vaccinations NUMERIC  -- Specify data type here
+    cumulative_vaccinations NUMERIC  
 );
 
 INSERT INTO #percentpopulationvaccinated
