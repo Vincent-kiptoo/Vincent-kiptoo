@@ -36,9 +36,8 @@ victim profiles, and detection system gaps in a simulated M-Pesa ecosystem.
 
 ## Connect
 
-- LinkedIn: your-linkedin-url-here
-- Email: your-email-here
-
+- LinkedIn: www.linkedin.com/in/vincentkiptoo
+- Email: vincentkiptoo2232@gmail.com
 ---
 Currently building in public. Open to junior fraud analytics, 
 data science, and software engineering opportunities in Nairobi.
