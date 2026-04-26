@@ -1,6 +1,6 @@
 # Vincent Kiptoo
 
-> "I Know How Criminals Think. I Build Systems That Catch Them."
+> "I Know How Criminals Think. I Build intelligent Systems That Catch Them."
 
 ## About
 
