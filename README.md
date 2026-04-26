@@ -6,7 +6,7 @@
 
 Fraud Analytics and Machine Learning Engineer in training based in Kenya.
 BA in Criminology and Penology — currently completing ALX Data Science and 
-pursuing a Diploma in Software Engineering. I combine behavioral crime theory 
+pursuing a Diploma in Software Engineering. I combine behavioral crime theory and forensic pysychology
 with software engineering and data science to build intelligent fraud detection and prediction 
 systems for Africa's mobile money ecosystem.
 
