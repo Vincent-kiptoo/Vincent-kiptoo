@@ -5,8 +5,8 @@
 ## About
 
 Fraud Analytics and Machine Learning Engineer in training based in Kenya.
-BA in Criminology and Penology — currently completing ALX Data Science and 
-pursuing a Diploma in Software Engineering. I combine behavioral crime theory and forensic pysychology
+BA in Criminology and Penology. Currently Pursuing ALX Data Science and 
+ a Diploma in Software Engineering. I combine behavioral crime theory and forensic pysychology
 with software engineering and data science to build intelligent fraud detection and prediction 
 systems for Africa's FinTech ecosystem.
 
@@ -32,7 +32,7 @@ victim profiles, and detection system gaps in a simulated M-Pesa ecosystem.
 | Machine Learning | Fraud prediction and risk modeling |
 | Software Engineering | Building fraud detection systems end to end |
 | Domain | Africa's fintech and mobile money ecosystem |
-| Location | Kenya — Nairobi bound |
+| Location | Kenya — Nairobi |
 
 ## Connect
 
