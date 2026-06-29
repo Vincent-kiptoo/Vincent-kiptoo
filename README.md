@@ -32,8 +32,6 @@ victim profiles, and detection system gaps in a simulated M-Pesa ecosystem.
 | Location | Kenya — Nairobi |
 
 ## Connect
-
-- LinkedIn: www.linkedin.com/in/vincentkiptoo
 - Email: vincentkiptoo2232@gmail.com
 ---
 Currently building in public. Open to junior fraud analytics, 
