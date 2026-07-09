@@ -7,7 +7,7 @@
 ## About
 
 Fraud Analytics and Machine Learning Engineer in training based in Kenya.  
-I combine behavioral and forensic psychology with software engineering and data science to build intelligent fraud detection, risk modeling, and data-driven decision systems for Africa’s FinTech ecosystem.
+I combine behavioral and forensic analysis with software engineering and data science to build intelligent fraud detection, risk modeling, and data-driven decision systems for Africa’s FinTech ecosystem.
 
 ---
 
