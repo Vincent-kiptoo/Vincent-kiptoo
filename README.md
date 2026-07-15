@@ -21,15 +21,11 @@ I am focused on fraud detection, risk intelligence, and applied machine learning
 
 ## Currently Learning
 
-Building strong foundations in machine learning through:
-- Linear Algebra
-- Calculus
-- Statistics
-- Algorithm implementation from scratch
+Building strong foundations in machine learning.
 
 ## Vision
 
-To build intelligent systems that help organizations detect risks, understand behavior, and make better decisions.
+To build intelligent systems that help organizations and institutions detect risks, understand behavior, and make better decisions.
 
 ## Contact
 
