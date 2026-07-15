@@ -1,71 +1,36 @@
 # Vincent Kiptoo
 
-> "I know how criminals think. I build intelligent systems that catch them."
-
----
+> "I understand how criminals think. I build intelligent systems that detect fraud."
 
 ## About
 
-Fraud Analytics and Machine Learning Engineer in training based in Kenya.  
-I combine behavioral and forensic analysis with software engineering and data science to build intelligent fraud detection, risk modeling, and data-driven decision systems for Africa’s FinTech ecosystem.
+Machine Learning Engineer in training based in Kenya.
 
----
+My background shapes how I approach technology: understanding behavior, identifying patterns, and building intelligent systems that solve real-world problems.
 
-## Current Projects
+I am focused on fraud detection, risk intelligence, and applied machine learning for African financial systems.
 
-### PaySim Mobile Money Fraud Investigation
-A SQL-based analysis of 6.3 million simulated mobile money transactions.  
-The project identifies fraud patterns, behavioral signatures, victim profiles, and system vulnerabilities within a simulated M-Pesa ecosystem. It focuses on uncovering actionable insights for fraud detection and risk mitigation.
+## Skills
 
-**Key Focus:**
-- Fraud pattern detection  
-- Transaction behavior analysis  
-- Risk segmentation  
-- SQL-based large-scale data exploration  
+- Python
+- SQL
+- Data Science
+- Machine Learning
+- Data Engineering
+- Software Engineering
 
----
+## Currently Learning
 
-### Maji Ndogo Agricultural Data Pipeline & Analytics
-An end-to-end data pipeline integrating farm survey data and weather data to analyze key drivers of crop yield. The system uses modular data processors for ingestion, cleaning, and transformation, followed by exploratory data analysis to uncover relationships between environmental conditions and agricultural productivity.
+Building strong foundations in machine learning through:
+- Linear Algebra
+- Calculus
+- Statistics
+- Algorithm implementation from scratch
 
-**Key Focus:**
-- Data ingestion from SQL and external sources  
-- Modular data processing pipeline design  
-- Weather + field data integration  
-- Exploratory data analysis for agricultural insights  
+## Vision
 
----
+To build intelligent systems that help organizations detect risks, understand behavior, and make better decisions.
 
-## Technical Skills
+## Contact
 
-- **Languages:** Python, SQL  
-- **Data Tools:** Pandas, NumPy, Jupyter Notebook  
-- **Visualization:** Matplotlib, Seaborn, Power BI  
-- **Databases:** MySQL, SQLite  
-- **Core Concepts:** Data Structures, Software Engineering, System Design  
-- **Domain Expertise:** Fraud Analytics, Risk Intelligence, Agricultural Data Systems  
-
----
-
-## Focus Areas
-
-| Area | Direction |
-|------|-----------|
-| Fraud Detection | Mobile money fraud pattern analysis and detection systems |
-| Machine Learning | Risk prediction and classification models |
-| Data Engineering | End-to-end data pipelines and ETL systems |
-| Applied Analytics | Real-world African fintech and agriculture systems |
-| Location | Nairobi, Kenya |
-
----
-
-## Connect
-
-- Email: vincentkiptoo2232@gmail.com  
-
----
-
-## Status
-
-Currently building in public.  
-Open to junior roles in data science, fraud analytics, and machine learning engineering.
+vincentkiptoo2232@gmail.com
